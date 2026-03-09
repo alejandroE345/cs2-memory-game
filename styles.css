@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(8, 34, 59);
+    color: whitesmoke;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+.card {
+    align-content: center;
+    background-color: rgb(8, 68, 8);
+    color: whitesmoke;
+    width: 170px;
+    height: 250px;
+    border-radius: 10px;
+    font-size: 25px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.11);
+    transition: 300ms;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+
+}
