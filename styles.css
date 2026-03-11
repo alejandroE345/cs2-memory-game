@@ -3,11 +3,11 @@ body {
     color: whitesmoke;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+}
 .card {
     align-content: center;
     background-color: rgb(8, 68, 8);
-    color: whitesmoke;
+    color: rgb(8, 68, 8);
     width: 170px;
     height: 250px;
     border-radius: 10px;
